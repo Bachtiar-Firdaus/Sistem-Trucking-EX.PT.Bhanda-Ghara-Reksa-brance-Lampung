@@ -1,0 +1,129 @@
+body{
+	background-image:url(../img/bg.jpg);
+	background-size:cover;
+}
+
+#asd{
+	float: left;
+	width: 500px;
+	height: 450px;
+	margin-left: 280px;
+}
+#content{
+	background-image:url(../img/742845.jpg);
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.4);
+	background-size:cover;
+	margin-top: 18px;
+}
+
+#h3{
+	color: #fff;
+	margin-top: 25px;
+	margin-right: 10px;
+	font-family:"Century Gothic";
+	float: right;
+
+}
+#kanann{
+	height: 100px;
+	background-color: #1B5E20;
+}
+
+#labelnilai{
+	width: 40px;
+}
+
+#header{
+	background:#2E7D32;
+	height: 130px;
+	
+}
+
+#h1{
+	color:#fff;
+	font-family:"Century Gothic";
+	clear: both;
+	margin-top: 3px;
+}
+
+.navbar-brand {
+	background:#2E7D32;
+	color:#FFF;
+	font-family:"Century Gothic";
+	top: 0;
+}
+
+#btnn {
+	background:#1B5E20;
+	margin-top: 20px;
+}
+#btnn2 {
+	margin-top: 20px;
+}
+
+.li{
+	background: #EEEEEE;
+	height: 50px;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.4);
+	font-family:"Century Gothic";
+}
+
+.dropdown{
+	background-color: #fff;
+}
+
+.li1{
+	background: #F9E6CF;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.4);
+	font-family:"Century Gothic";
+	color:#004d40;
+}
+
+.dropdown-menu{
+	color:color:#FFF;
+	font-family:"Century Gothic";
+}
+
+#border{
+	background-color:#066;	
+}
+
+.col-md-9{
+	height:622px;
+	background-color:white;
+	margin-left:0,5px;
+	width:74%;
+	}
+
+.img2{
+	padding-left: 80px;
+	margin-bottom: 10px;
+}
+
+#btn123{
+	margin-top: 80px;
+	width: 300px;
+	height: 150px;
+}
+
+.btn1{
+	margin-top: 40px;
+	margin-left: 0px;
+	clear: both;
+	
+}
+
+.table{
+	width: 100%;
+}
+
+#row12345{
+	margin-left: 60px;
+	margin-top: 30px;
+}
+img{
+	float: right;
+	width: 85px;
+	height: 85px;
+	margin-top: 10px
+}

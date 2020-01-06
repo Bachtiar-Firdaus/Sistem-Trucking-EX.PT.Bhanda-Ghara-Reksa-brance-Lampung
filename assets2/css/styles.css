@@ -1,0 +1,40 @@
+body{
+  /*background:url(../../assets1/img/back7.jpg) no-repeat;*/
+  background-color:    #607d8b;
+  background-size:cover;
+}
+
+@media (max-width:1199px) {
+  #layer1{
+    padding:40px;
+  }
+}
+
+@media (max-width:1199px) {
+  footer{
+    padding:30px;
+  }
+}
+
+#layer-form{
+  background:rgba(255,255,255,0.75);
+  border-radius:30px;
+}
+
+#form_id{
+  border-radius:30px;
+}
+
+#title{
+  text-align:center;
+}
+
+#form{
+  padding:30px;
+}
+
+#layer-footer{
+  padding:30px;
+  border-radius:30px;
+}
+

@@ -1,0 +1,73 @@
+body{
+	background:url(C:\xampp\htdocs\crud_latci\assets\img\ega.jpg);
+	}
+
+	#labelnilai{
+		width: 40px;
+	}
+#header{
+	background:#004d40;
+	height: 150px;
+	
+}
+
+h1{
+	padding-top: 25px;
+	color:#FFF;
+	font-family:"Century Gothic";
+}
+.navbar-brand {
+	background: #00695C;
+	color:#FFF;
+	font-family:"Century Gothic";
+	top: 0;
+
+}
+.li{
+	background: #E0F2F1;
+	height: 50px;
+	font-family:"Century Gothic";
+
+}
+.li1{
+	background: #F9E6CF;
+	font-family:"Century Gothic";
+	color:#004d40;
+}
+
+.dropdown-menu{
+	color:color:#FFF;
+	font-family:"Century Gothic";
+}
+
+#border{
+	background-color:#066;
+		
+}
+.col-md-9{
+	height:622px;
+	background-color:white;
+	margin-left:0,5px;
+	width:74%;
+	}
+.img2{
+	padding-left: 80px;
+	margin-bottom: 10px;
+}
+#btn123{
+	margin-top: 80px;
+	width: 300px;
+	height: 150px;
+}
+.btn1{
+	margin-top: 40px;
+	margin-left: 0px;
+	
+}
+.table{
+	width: 100%;
+}
+#row12345{
+	margin-left: 60px;
+	margin-top: 30px;
+}

@@ -1,0 +1,41 @@
+pelabuhan
+ - pelabuhan
+  - pricipal
+timbangan
+ - timbangan
+ - gudang
+	-timbang gudang 1 (untuk menghapus data gudang)
+	-timbang gudang 2
+	-timbang gudang 3
+	-timbang gudang 4
+	-timbang gudang 5
+	-timbang gudang 6
+
+gudang 1
+ - gudang 1
+
+gudang 2
+ - gudang 2
+
+gudang 3
+ - gudang 3
+
+gudang 4
+ - gudang 4
+
+gudang 5
+ - gudang 5
+
+gudang 6
+ - gudang 6
+
+kantor
+ - kantor pricipal
+ - kantor pelabuhan
+ - kantor timbangan
+ - kantor gudang 1
+ - kantor gudang 2
+ - kantor gudang 3
+ - kantor gudang 4
+ - kantor gudang 5
+ - kantor gudang 6
